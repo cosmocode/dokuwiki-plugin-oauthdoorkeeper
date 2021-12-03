@@ -1,0 +1,7 @@
+base   oauthdoorkeeper
+author Andreas Gohr
+email  dokuwiki@cosmocode.de
+date   2021-12-04
+name   oauth Doorkeeper Service Example
+desc   Doorkeeper Service for use with the oAuth Plugin
+url    http://www.dokuwiki.org/plugin:oauthdoorkeeper
